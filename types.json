@@ -1,0 +1,9 @@
+/* number, string, boolean, object, null */
+
+{
+  "number": 1,
+  "string": "Строка",
+  "boolean": false,
+  "object": {"color": "brown"},
+  "null":
+}
